@@ -1,0 +1,4 @@
+This module links with and environment variable PNG_DIR set in the envionment
+The build in this structure is projects\vstudio which is an execption to the norm for cmake project creations.
+It is set in that fashon since the visual studio files that are used in that directory were used in a previous version of the project
+and the desire is not to require unnecessasry adaptions in other projects dependant on libpng when we update libpng

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="N:\Development\Dev_Base\libpng-1.6.40\projects\vstudio\CMakeFiles\e28e5cfa1221af661d081b1c07aa0bc7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E0D345C6-5D1B-357E-9F73-07059400FD07}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

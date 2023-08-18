@@ -1,0 +1,14 @@
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/png_genfiles.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/png-fix-itxt.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/pngtest.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/png_shared.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/png_static.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/pngvalid.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/pngunknown.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/pngstest.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/pngimage.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/pngfix.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/RUN_TESTS.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/libpng-1.6.40/projects/vstudio/CMakeFiles/ZERO_CHECK.dir
